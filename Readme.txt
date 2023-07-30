@@ -7,8 +7,10 @@ The first two methods offer a list and dictionary of words and their chance to o
 The third method expects as input a string of words and returns as output a value that tells you the likelihood that the string belongs to a press release that will have a rising stock price after a year.
 For example a return of 2 indicates that the string of words is twice as likely to belong to a company that will have an increasing stock price after a year.
 
-The final result is the result dataset.csv
-This dataset contains the following columns:
+The final result is the csv file "Press release dataset with stock prices and features.csv"
+See the pdf file "Data set column explanation.pdf" for a detailed explanation about the data in the Press release dataset.
+
+The Press release dataset contains the following columns:
 
 
 Company: The company to which the row belongs to
